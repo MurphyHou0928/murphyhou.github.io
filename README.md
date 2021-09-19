@@ -1,6 +1,11 @@
 # murphyhou0928.github.io
+
 Personal Website
 
+---
 
-
-only one branch
+Electronics students
+Blogger
+Programming enthusiasts
+Photography enthusiasts
+Astronomy enthusiasts
